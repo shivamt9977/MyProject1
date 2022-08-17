@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyProject1.Loops.PowerCalculate</StartupObject>
+	  <StartupObject>MyProject1.Loops.magicalProgram</StartupObject>
   </PropertyGroup>
 
 </Project>
