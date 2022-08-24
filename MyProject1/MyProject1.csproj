@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyProject1.Methods.HappyNumber</StartupObject>
+	  <StartupObject>MyProject1.Methods1.Book</StartupObject>
   </PropertyGroup>
 
 </Project>
