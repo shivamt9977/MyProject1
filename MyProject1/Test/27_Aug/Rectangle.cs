@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyProject1.Test._27_Aug
-{
-    class Rectangle
+/*namespace MyProject1.Test._27_Aug
+{*/
+   /* class Rectangle
     {
         int length, breadth, area, perimeter;
          public void input(int l,int br)
@@ -33,3 +33,4 @@ namespace MyProject1.Test._27_Aug
         }
     }
 }
+*/
