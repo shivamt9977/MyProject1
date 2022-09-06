@@ -6,7 +6,7 @@ namespace MyProject1.Inheritance
 {
     class Overriding
     {
-        public void riding()
+        public virtual void riding()
         {
             Console.WriteLine("Riding on road");
         }
@@ -15,7 +15,7 @@ namespace MyProject1.Inheritance
 
     class child:Overriding
     {
-        public void riding()
+        public override void riding()
         {
             Console.WriteLine("Riding in a game");
         }
@@ -29,6 +29,13 @@ namespace MyProject1.Inheritance
         {
             child c = new child();
             c.riding();
+
+            Overriding ov = new child();
+            ov.riding();
+
+            Overriding o = new Overriding();
+            o.riding();
+            
         }
     }
 

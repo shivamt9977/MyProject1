@@ -22,11 +22,18 @@ namespace MyProject1.Methods1
             engType = type;
         }
 
+       /* public override string ToString()
+        {
+            return "Carname " + carName +"Price is"+price+"Engtype is "+engType;
+        }*/
+
         static void Main(string[] args)
         {
             Car c1 = new Car();//default constructor
             Car c2 = new Car("Honda City",2000000,"ivtech");//3 parameter
             Console.WriteLine(c2.carName+","+c2.price+","+c2.engType);
+
+           // string s = new string();
         }
     }
 }
