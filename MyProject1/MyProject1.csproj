@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyProject1.Methods1.CallByRefrence</StartupObject>
+	  <StartupObject>MyProject1.Test._10_sep.B</StartupObject>
   </PropertyGroup>
 
 </Project>
