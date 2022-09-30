@@ -8,7 +8,7 @@ namespace MyProject1.Strings
     {
         static void Main(string[] args)
         {
-            string s = "Shivamgmail.com";
+            string s = "Shivam@gmail.com";
             int a = 0;
             for(int i=0;i<s.Length;i++)
             {
